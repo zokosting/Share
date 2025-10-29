@@ -37,7 +37,7 @@ window.onload = async () => {
   peer.on("open", (id) => {
     status.innerText = `Status: Online`;
     status.style.color = `green`;
-    MyID.innerText = `ID: ${id}`;
+    MyID.innerText = `${id}`;
 
 
     MyDir.innerHTML = `<a href="${myURL}#${id}" style="dis">[ All files ]</a>`;
@@ -104,6 +104,6 @@ window.onload = async () => {
   peer.on("close", () => {
     status.innerText = `Status: Offline`;
     status.style.color = `red`;
-    MyID.innerText = `ID: none`;
+    MyID.innerText = `none ID`;
   });
 };

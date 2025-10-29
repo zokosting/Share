@@ -1,0 +1,2 @@
+# Share
+Share is a web application (based on https://github.com/Fulldroper/WebRTC-File-Sharing) that enables peer-to-peer connections through web browsers, allowing users to share files directly between clients without intermediaries. By simply opening the website, users can upload files for distribution and share direct download links with others. Additionally, you can send a page with all your files

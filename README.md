@@ -33,3 +33,5 @@ Contributions to WebRTC File Sharing are welcome! If you find a bug or want to p
 License
 
 This project is licensed under the MIT License. Feel free to use, modify, and distribute it as per the terms of the license. See LICENSE for more details.
+
+Fully attribution to original project: https://github.com/Fulldroper/WebRTC-File-Sharing/
